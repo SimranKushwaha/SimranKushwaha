@@ -6,6 +6,6 @@ I'm a computational biologist working in genomics, with a PhD focused on *Salmon
 **Expertise:** computational biology · microbiology · molecular biology · genomic epidemiology  
 **Currently:** working in industry on bioinformatics & genomics, while staying active in research  
 
-💬 **Ask me anything about** *Salmonella* and CRISPR-Cas3
+💬 **Ask me anything about** *Salmonella* and bacterial defense systems (especially CRISPR-Cas)
 
 Always happy to chat microbiology, genomics, or CRISPR; feel free to reach out!
