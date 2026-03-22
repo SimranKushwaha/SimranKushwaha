@@ -1,6 +1,6 @@
 ### Hi, I'm Simran 👋
 
-I'm a computational biologist working in genomics, with a PhD focused on *Salmonella* — its epidemiology, antimicrobial resistance, molecular biology, and how it defends against viruses using anti-phage defense systems. 
+I'm a computational biologist working in genomics, with a PhD focused on *Salmonella*; its epidemiology, antimicrobial resistance, molecular biology, and how it defends against viruses using anti-phage defense systems. 
 
 🔬 **What I work on:** genomics, antimicrobial resistance, CRISPR-Cas systems, ESKAPE pathogens, host-pathogen interactions  
 🧰 **Expertise:** computational biology · microbiology · molecular biology · genomic epidemiology  
